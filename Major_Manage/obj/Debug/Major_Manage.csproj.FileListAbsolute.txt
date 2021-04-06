@@ -1,0 +1,10 @@
+C:\Users\Thuy Linh\source\repos\Major_Manage\Major_Manage\bin\Debug\Major_Manage.exe.config
+C:\Users\Thuy Linh\source\repos\Major_Manage\Major_Manage\bin\Debug\Major_Manage.exe
+C:\Users\Thuy Linh\source\repos\Major_Manage\Major_Manage\bin\Debug\Major_Manage.pdb
+C:\Users\Thuy Linh\source\repos\Major_Manage\Major_Manage\obj\Debug\Major_Manage.csprojAssemblyReference.cache
+C:\Users\Thuy Linh\source\repos\Major_Manage\Major_Manage\obj\Debug\Major_Manage.Properties.Resources.resources
+C:\Users\Thuy Linh\source\repos\Major_Manage\Major_Manage\obj\Debug\Major_Manage.csproj.GenerateResource.cache
+C:\Users\Thuy Linh\source\repos\Major_Manage\Major_Manage\obj\Debug\Major_Manage.csproj.CoreCompileInputs.cache
+C:\Users\Thuy Linh\source\repos\Major_Manage\Major_Manage\obj\Debug\Major_Manage.exe
+C:\Users\Thuy Linh\source\repos\Major_Manage\Major_Manage\obj\Debug\Major_Manage.pdb
+C:\Users\Thuy Linh\source\repos\Major_Manage\Major_Manage\obj\Debug\Major_Manage.frmMain.resources
